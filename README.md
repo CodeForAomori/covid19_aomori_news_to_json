@@ -6,8 +6,8 @@
 
 ## How to run
 
-このスクリプトは GitHub Actions で毎時実行され、長野県の公表しているデータの取得を試みます。
-It's running every hour by GitHub Actions, to try fetching new CSV files then update files under `src/.encoded` and `src/.json` automatically.
+このスクリプトは GitHub Actions で毎時実行され、青森県のWEBサイトから最新ニュースの取得を試みます。
+It's running every hour by GitHub Actions, to try fetching new CSV files then update files under `src/.json` automatically.
 
 ### Locally...
 
