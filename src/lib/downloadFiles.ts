@@ -6,7 +6,7 @@ async function downloadFiles(urls: string[], dir: string): Promise<item[]> {
   const items: item[] = [];
   const promises = urls.map(async (url: string) => {
     try {
-      const data: string = await download(url, dir, { encoding: "binary" });
+      const data: string = await download(url, dir);
       items.push({ path: url, data });
     } catch (err) {
       console.log(`LOG: ${url} got an error.`);
