@@ -35,30 +35,27 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Current Directory Check 
+      - name: evacuation news.json
         run: |
           pwd
-          cd
-          pwd
+          cp src/.json/news.json ../
 
       - name: Checkout
         uses: actions/checkout@v2.0.0
         with:
           repository: CodeForAomori/covid19
-          path: covid19
 
-      - name: copy news.json
+      - name: update news.json
         run: |
-          pwd
-          cp src/.json/news.json covid19/data
+          cp ../news.json data/news.json
 
       - name: Commit files
         run: |
-          git status | grep modified && git add covid19/data && git commit -v -m "[Bot] GitHub Actions - auto run" || true
+          git config --local user.email "hodade@gmail.com"
+          git config --local user.name "hodade bot"
+          git status | grep modified && git add data/news.json && git commit -v -m "[Bot] GitHub Actions - auto run" || true
 
-      - name: GitHub Push
-        uses: ad-m/github-push-action@v0.5.0
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          github_token: $\{{ secrets.GITHUB_TOKEN }}
-          repository: CodeForAomori/covid19
-          branch: aomori_development
+          github_token: ${{ secrets.GITHUB_TOKEN }}
