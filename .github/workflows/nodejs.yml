@@ -12,10 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          # Repository name with owner. For example, actions/checkout
-          repository: CodeForAomori/covid19_aomori_news_to_json
-          path: covid19_aomori_news_to_json
 
       - uses: actions/setup-node@v1
         with:
@@ -48,7 +44,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2.0.0
         with:
-          # Repository name with owner. For example, actions/checkout
           repository: CodeForAomori/covid19
           path: covid19
 
@@ -60,10 +55,7 @@ jobs:
       - name: GitHub Push
         uses: ad-m/github-push-action@v0.5.0
         with:
-          # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
           github_token: $\{{ secrets.GITHUB_TOKEN }}
-          # Repository name to push. Default or empty value represents current github repository (${GITHUB_REPOSITORY})
           repository: CodeForAomori/covid19.git
-          # Destination branch to push changes
           branch: aomori_development
           directory: data
