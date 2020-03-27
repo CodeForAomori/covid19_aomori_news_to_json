@@ -51,7 +51,7 @@ jobs:
       - name: copy news.json
         run: |
           pwd
-          cp /home/runner/work/covid19_aomori_news_to_json/covid19_aomori_news_to_json/src/.json/news.json /home/runner/work/covid19/covid19/data
+          cp /home/runner/work/covid19_aomori_news_to_json/covid19_aomori_news_to_json/src/.json/news.json /home/runner/work/covid19_aomori_news_to_json/covid19_aomori_news_to_json/covid19/data
 
       - name: push 
         run: |
