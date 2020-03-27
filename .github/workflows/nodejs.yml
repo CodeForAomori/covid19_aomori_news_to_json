@@ -51,10 +51,15 @@ jobs:
       - name: copy news.json
         run: |
           pwd
-          cp /home/runner/work/covid19_aomori_news_to_json/covid19_aomori_news_to_json/src/.json/news.json /home/runner/work/covid19_aomori_news_to_json/covid19_aomori_news_to_json/covid19/data
+          cp src/.json/news.json covid19/data
 
-      - name: push 
-        run: |
-          pwd 
-
-
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.5.0
+        with:
+          # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
+          github_token: $\{{ secrets.GITHUB_TOKEN }}
+          # Repository name to push. Default or empty value represents current github repository (${GITHUB_REPOSITORY})
+          repository: CodeForAomori/covid19.git
+          # Destination branch to push changes
+          branch: aomori_development
+          directory: data
