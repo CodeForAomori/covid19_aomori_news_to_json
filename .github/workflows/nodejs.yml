@@ -45,12 +45,12 @@ jobs:
         uses: actions/checkout@v2.0.0
         with:
           # Repository name with owner. For example, actions/checkout
-          repository: https://github.com/CodeForAomori/covid19.git
-          # The branch, tag or SHA to checkout. When checking out the repository that triggered a workflow, this defaults to the reference or SHA for that event.  Otherwise, defaults to `master`.
+          repository: CodeForAomori/covid19.git
 
       - name: copy news.json
         run: |
-          pwd 
+          pwd
+          cp /home/runner/work/covid19_aomori_news_to_json/covid19_aomori_news_to_json/src/.json/news.json /home/runner/work/covid19/covid19/data
 
       - name: push 
         run: |
