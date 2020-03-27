@@ -56,5 +56,5 @@ jobs:
         uses: ad-m/github-push-action@v0.5.0
         with:
           github_token: $\{{ secrets.GITHUB_TOKEN }}
-          repository: CodeForAomori/covid19.git
+          repository: CodeForAomori/covid19
           branch: aomori_development
