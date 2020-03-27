@@ -46,6 +46,7 @@ jobs:
         with:
           # Repository name with owner. For example, actions/checkout
           repository: CodeForAomori/covid19.git
+          path: covid19
 
       - name: copy news.json
         run: |
