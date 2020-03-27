@@ -55,7 +55,10 @@ jobs:
           git config --local user.name "hodade bot"
           git status | grep modified && git add data/news.json && git commit -v -m "[Bot] GitHub Actions - auto run" || true
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.5.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: $\{{ secrets.GITHUB_TOKEN }}
+          repository: CodeForAomori/covid19
+          branch: aomori_development
+
