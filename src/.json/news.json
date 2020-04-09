@@ -21,7 +21,7 @@
       "url": "https://www.pref.aomori.lg.jp/soshiki/shoko/a-nagoya/nagoya-kanko.html"
     },
     {
-      "date": "#N/A",
+      "date": "読み込んでいます...",
       "text": "新型コロナウイルス感染症の発生に伴い影響を受けた林業者及び木材産業者に対する金融支援について",
       "url": "https://www.pref.aomori.lg.jp/soshiki/nourin/dantai/ringyo_korona.html"
     },
@@ -36,12 +36,14 @@
       "url": "https://www.pref.aomori.lg.jp/soshiki/kendo/airport/r2_oshirase_01.html"
     },
     {
-      "date": "読み込んでいます...",
-      "text": "旅館等の宿泊施設における新型コロナウイルス感染症への対応について"
+      "date": "2020/04/03",
+      "text": "旅館等の宿泊施設における新型コロナウイルス感染症への対応について",
+      "url": "https://www.pref.aomori.lg.jp/welfare/health/2020covidshukuhaku.html"
     },
     {
-      "date": "読み込んでいます...",
-      "text": "新型コロナウイルス感染症対策関連経費情報"
+      "date": "2020/04/01",
+      "text": "新型コロナウイルス感染症対策関連経費情報",
+      "url": "https://www.pref.aomori.lg.jp/kensei/yosan/yosan_covid-19.html"
     }
   ]
 }
