@@ -1,7 +1,7 @@
 {
   "newsItems": [
     {
-      "date": "読み込んでいます...",
+      "date": "2020/04/14",
       "text": "新型コロナウイルス感染症について",
       "url": "https://www.pref.aomori.lg.jp/welfare/health/wuhan-novel-coronavirus2020.html"
     },
@@ -36,16 +36,19 @@
       "url": "https://www.pref.aomori.lg.jp/koho/coronavirus_poster.html"
     },
     {
-      "date": "読み込んでいます...",
-      "text": "新型コロナウイルス感染症に関する中小企業者に対する支援策について"
+      "date": "2020/04/10",
+      "text": "新型コロナウイルス感染症に関する中小企業者に対する支援策について",
+      "url": "https://www.pref.aomori.lg.jp/sangyo/shoko/singatakorona.html"
     },
     {
       "date": "読み込んでいます...",
-      "text": "旅館等の宿泊施設における新型コロナウイルス感染症への対応について"
+      "text": "旅館等の宿泊施設における新型コロナウイルス感染症への対応について",
+      "url": "https://www.pref.aomori.lg.jp/welfare/health/2020covidshukuhaku.html"
     },
     {
       "date": "読み込んでいます...",
-      "text": "新型コロナウイルス感染症緊急経済対策における税制上の措置（案）について"
+      "text": "新型コロナウイルス感染症緊急経済対策における税制上の措置（案）について",
+      "url": "https://www.pref.aomori.lg.jp/life/tax/kinkyukeizaitaisaku_zeiseisoti.html"
     }
   ]
 }
