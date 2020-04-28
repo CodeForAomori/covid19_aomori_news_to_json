@@ -2,8 +2,13 @@
   "newsItems": [
     {
       "date": "2020/04/28",
-      "text": "歯科診療における新型コロナウイルスの感染拡大に際しての対応について",
+      "text": "歯科診療における新型コロナウイルスの感染拡大に際しての対応について（歯科医療機関の皆様へ）",
       "url": "https://www.pref.aomori.lg.jp/soshiki/kenko/iryo/dental_corona.html"
+    },
+    {
+      "date": "2020/04/28",
+      "text": "新型コロナウイルスの感染拡大に関しての医療機関の対応について",
+      "url": "https://www.pref.aomori.lg.jp/soshiki/kenko/iryo/info-coronavirus.html"
     },
     {
       "date": "2020/04/28",
@@ -11,17 +16,17 @@
       "url": "https://www.pref.aomori.lg.jp/soshiki/kenko/iryo/20200414_online_shinryou.html"
     },
     {
-      "date": "2020/04/28",
+      "date": "読み込んでいます...",
       "text": "新型コロナウイルス感染症について",
       "url": "https://www.pref.aomori.lg.jp/welfare/health/wuhan-novel-coronavirus2020.html"
     },
     {
-      "date": "2020/04/28",
+      "date": "読み込んでいます...",
       "text": "新型コロナウイルス対策関連",
       "url": "https://www.pref.aomori.lg.jp/welfare/welfare/kaigosisetu_tuuti.html"
     },
     {
-      "date": "読み込んでいます...",
+      "date": "2020/04/27",
       "text": "新型コロナウイルス感染症に係る危機対策本部会議の開催について",
       "url": "https://www.pref.aomori.lg.jp/koho/corona_kikitaisakuhonbu.html"
     },
@@ -31,7 +36,7 @@
       "url": "https://www.pref.aomori.lg.jp/sangyo/shoko/kansenkakudaiboushi_kyoryokukin.html"
     },
     {
-      "date": "読み込んでいます...",
+      "date": "2020/04/27",
       "text": "新型コロナウイルス感染症に係る「青森県からのお願い」ポスターデータについて",
       "url": "https://www.pref.aomori.lg.jp/koho/corona_poster2.html"
     },
@@ -56,14 +61,9 @@
       "url": "https://www.pref.aomori.lg.jp/welfare/health/2020covidshukuhaku.html"
     },
     {
-      "date": "2020/04/23",
+      "date": "読み込んでいます...",
       "text": "【児童福祉関係】 新型コロナウイルス感染症対策関係通知等",
       "url": "https://www.pref.aomori.lg.jp/soshiki/kenko/kodomo/kodomo_corona_kankei.html"
-    },
-    {
-      "date": "2020/04/23",
-      "text": "新型コロナウイルスの感染拡大に関しての医療機関の対応について",
-      "url": "https://www.pref.aomori.lg.jp/soshiki/kenko/iryo/info-coronavirus.html"
     },
     {
       "date": "2020/04/23",
