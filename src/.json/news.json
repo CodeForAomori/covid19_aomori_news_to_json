@@ -1,12 +1,17 @@
 {
   "newsItems": [
     {
+      "date": "読み込んでいます...",
+      "text": "新型コロナウイルス感染症拡大防止のために",
+      "url": "https://www.pref.aomori.lg.jp/koho/corona_kansenboushi.html"
+    },
+    {
       "date": "2020/05/07",
       "text": "新型コロナウイルス感染症について",
       "url": "https://www.pref.aomori.lg.jp/welfare/health/wuhan-novel-coronavirus2020.html"
     },
     {
-      "date": "読み込んでいます...",
+      "date": "2020/05/06",
       "text": "新型コロナウイルス対策関連事務連絡（高齢者施設等）",
       "url": "https://www.pref.aomori.lg.jp/welfare/welfare/kaigosisetu_tuuti.html"
     },
@@ -31,17 +36,17 @@
       "url": "https://www.pref.aomori.lg.jp/soshiki/kenko/iryo/20200414_online_shinryou.html"
     },
     {
-      "date": "2020/04/30",
+      "date": "読み込んでいます...",
       "text": "新型コロナウイルス感染症に係る法人県民税・事業税の申告納付期限の延長について",
       "url": "https://www.pref.aomori.lg.jp/life/tax/houjin_kigenenchou.html"
     },
     {
-      "date": "2020/04/30",
+      "date": "読み込んでいます...",
       "text": "青森空港ご利用のみなさまへ（新型コロナウィルス関係）",
       "url": "https://www.pref.aomori.lg.jp/soshiki/kendo/airport/r2_oshirase_01.html"
     },
     {
-      "date": "2020/04/30",
+      "date": "読み込んでいます...",
       "text": "廃棄物処理における新型コロナウイルス対策について",
       "url": "https://www.pref.aomori.lg.jp/nature/kankyo/haikibutu_coronataisaku.html"
     },
@@ -66,19 +71,9 @@
       "url": "https://www.pref.aomori.lg.jp/soshiki/kenko/iryo/dental_corona.html"
     },
     {
-      "date": "読み込んでいます...",
+      "date": "2020/04/27",
       "text": "新型コロナウイルス感染症に係る「青森県からのお願い」ポスターデータについて",
       "url": "https://www.pref.aomori.lg.jp/koho/corona_poster2.html"
-    },
-    {
-      "date": "読み込んでいます...",
-      "text": "新型コロナウイルス感染拡大を受けた産業廃棄物処理業の許可申請等について",
-      "url": "https://www.pref.aomori.lg.jp/nature/kankyo/sanpai-sinsei-coronavirus.html"
-    },
-    {
-      "date": "読み込んでいます...",
-      "text": "新型コロナウイルス感染症対策関連経費情報",
-      "url": "https://www.pref.aomori.lg.jp/kensei/yosan/yosan_covid-19.html"
     }
   ]
 }
