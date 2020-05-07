@@ -2,11 +2,16 @@
   "newsItems": [
     {
       "date": "2020/05/07",
+      "text": "「新型コロナウイルス感染症拡大防止」ポスター",
+      "url": "https://www.pref.aomori.lg.jp/soshiki/kikaku/koho/stopcovid19poster.html"
+    },
+    {
+      "date": "2020/05/07",
       "text": "新型コロナウイルス感染症について",
       "url": "https://www.pref.aomori.lg.jp/welfare/health/wuhan-novel-coronavirus2020.html"
     },
     {
-      "date": "2020/05/06",
+      "date": "読み込んでいます...",
       "text": "新型コロナウイルス対策関連事務連絡（高齢者施設等）",
       "url": "https://www.pref.aomori.lg.jp/welfare/welfare/kaigosisetu_tuuti.html"
     },
@@ -21,7 +26,7 @@
       "url": "https://www.pref.aomori.lg.jp/koho/R020228message.html"
     },
     {
-      "date": "読み込んでいます...",
+      "date": "2020/05/01",
       "text": "新型コロナウイルス感染症の影響に伴う肥料取締法に基づく各種手続の弾力的運用等について",
       "url": "https://www.pref.aomori.lg.jp/soshiki/nourin/sanzen/shinngatakoronahiryoutaiou.html"
     },
@@ -36,7 +41,7 @@
       "url": "https://www.pref.aomori.lg.jp/life/tax/kansensyou_tyousyuuyuuyo_001.html"
     },
     {
-      "date": "2020/04/30",
+      "date": "読み込んでいます...",
       "text": "新型コロナウイルス感染症に係る法人県民税・事業税の申告納付期限の延長について",
       "url": "https://www.pref.aomori.lg.jp/life/tax/houjin_kigenenchou.html"
     },
