@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "読み込んでいます...",
+      "text": "新型コロナウイルス感染拡大に係るNPO法人運営関連情報",
+      "url": "https://www.pref.aomori.lg.jp/life/volunteer/npo_covid-19.html"
+    },
+    {
       "date": "2020/05/07",
       "text": "新型コロナウイルス対策関連事務連絡（高齢者施設等）",
       "url": "https://www.pref.aomori.lg.jp/welfare/welfare/kaigosisetu_tuuti.html"
@@ -11,7 +16,7 @@
       "url": "https://www.pref.aomori.lg.jp/welfare/health/wuhan-novel-coronavirus2020.html"
     },
     {
-      "date": "読み込んでいます...",
+      "date": "2020/05/07",
       "text": "「新型コロナウイルス感染症拡大防止」ポスター",
       "url": "https://www.pref.aomori.lg.jp/soshiki/kikaku/koho/stopcovid19poster.html"
     },
@@ -59,11 +64,6 @@
       "date": "読み込んでいます...",
       "text": "旅館等の宿泊施設における新型コロナウイルス感染症への対応について",
       "url": "https://www.pref.aomori.lg.jp/welfare/health/2020covidshukuhaku.html"
-    },
-    {
-      "date": "読み込んでいます...",
-      "text": "新型コロナウイルス感染症に伴う畜産事業者への支援策について",
-      "url": "https://www.pref.aomori.lg.jp/soshiki/nourin/chikusan/koronataisaku.html"
     }
   ]
 }
