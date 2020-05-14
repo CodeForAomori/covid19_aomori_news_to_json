@@ -1,7 +1,12 @@
 {
   "newsItems": [
     {
-      "date": "2020/05/14",
+      "date": "読み込んでいます...",
+      "text": "旅館等の宿泊施設における新型コロナウイルス感染症への対応について",
+      "url": "https://www.pref.aomori.lg.jp/welfare/health/2020covidshukuhaku.html"
+    },
+    {
+      "date": "読み込んでいます...",
       "text": "新型コロナウイルス感染症について",
       "url": "https://www.pref.aomori.lg.jp/welfare/health/wuhan-novel-coronavirus2020.html"
     },
@@ -11,22 +16,22 @@
       "url": "https://www.pref.aomori.lg.jp/soshiki/kenko/iryo/info-coronavirus.html"
     },
     {
-      "date": "2020/05/13",
+      "date": "読み込んでいます...",
       "text": "新型コロナウイルス感染症の拡大に際しての電話や情報通信機器を用いた診療等の時限的・特例的な取扱いについて",
       "url": "https://www.pref.aomori.lg.jp/soshiki/kenko/iryo/info-coronavirus2.html"
     },
     {
-      "date": "2020/05/12",
+      "date": "読み込んでいます...",
       "text": "新型コロナウイルス感染症の感染拡大の影響等により解雇等された方への県営住宅の提供について",
       "url": "https://www.pref.aomori.lg.jp/soshiki/kendo/kenju/mokutekigaishiyo.html"
     },
     {
-      "date": "2020/05/11",
+      "date": "読み込んでいます...",
       "text": "青森空港ご利用のみなさまへ（新型コロナウィルス関係）",
       "url": "https://www.pref.aomori.lg.jp/soshiki/kendo/airport/r2_oshirase_01.html"
     },
     {
-      "date": "2020/05/11",
+      "date": "読み込んでいます...",
       "text": "新型コロナウイルス感染症対策関連経費情報",
       "url": "https://www.pref.aomori.lg.jp/kensei/yosan/yosan_covid-19.html"
     },
@@ -36,29 +41,14 @@
       "url": "https://www.pref.aomori.lg.jp/koho/R020228message.html"
     },
     {
-      "date": "2020/05/11",
+      "date": "読み込んでいます...",
       "text": "新型コロナウイルス対策関連事務連絡（高齢者施設等）",
       "url": "https://www.pref.aomori.lg.jp/welfare/welfare/kaigosisetu_tuuti.html"
     },
     {
-      "date": "2020/05/11",
+      "date": "読み込んでいます...",
       "text": "新型コロナウイルス感染症に係る危機対策本部会議の開催について",
       "url": "https://www.pref.aomori.lg.jp/koho/corona_kikitaisakuhonbu.html"
-    },
-    {
-      "date": "読み込んでいます...",
-      "text": "廃棄物処理における新型コロナウイルス対策について",
-      "url": "https://www.pref.aomori.lg.jp/nature/kankyo/haikibutu_coronataisaku.html"
-    },
-    {
-      "date": "読み込んでいます...",
-      "text": "医療機関における新型コロナウイルス感染症への対応について（院内感染対策）",
-      "url": "https://www.pref.aomori.lg.jp/soshiki/kenko/iryo/new_corona_innaikansentaisaku.html"
-    },
-    {
-      "date": "2020/05/08",
-      "text": "あすなろ療育福祉センター — 新型コロナウイルス感染症対策について",
-      "url": "https://www.pref.aomori.lg.jp/welfare/welfare/korona_asunaro.html"
     }
   ]
 }
