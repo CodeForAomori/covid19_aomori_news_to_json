@@ -2,6 +2,19 @@
   "newsItems": [
     {
       "date": "読み込んでいます...",
+      "text": "新型コロナウイルス感染症について",
+      "url": "https://www.pref.aomori.lg.jp/welfare/health/wuhan-novel-coronavirus2020.html"
+    },
+    {
+      "date": "読み込んでいます...",
+      "text": "歯科診療における新型コロナウイルスの感染拡大に際しての対応について（歯科医療機関の皆様へ）"
+    },
+    {
+      "date": "読み込んでいます...",
+      "text": "廃棄物処理における新型コロナウイルス対策について"
+    },
+    {
+      "date": "読み込んでいます...",
       "text": "旅館等の宿泊施設における新型コロナウイルス感染症への対応について",
       "url": "https://www.pref.aomori.lg.jp/welfare/health/2020covidshukuhaku.html"
     }
