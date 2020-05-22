@@ -2,8 +2,23 @@
   "newsItems": [
     {
       "date": "2020/05/22",
+      "text": "新型コロナウイルス感染症について（農林水産業関連）",
+      "url": "https://www.pref.aomori.lg.jp/soshiki/nourin/nosui/korona_nourin.html"
+    },
+    {
+      "date": "2020/05/22",
       "text": "新型コロナウイルス感染症について",
       "url": "https://www.pref.aomori.lg.jp/welfare/health/wuhan-novel-coronavirus2020.html"
+    },
+    {
+      "date": "2020/05/21",
+      "text": "歯科診療における新型コロナウイルスの感染拡大に際しての対応について（歯科医療機関の皆様へ）",
+      "url": "https://www.pref.aomori.lg.jp/soshiki/kenko/iryo/dental_corona.html"
+    },
+    {
+      "date": "読み込んでいます...",
+      "text": "廃棄物処理における新型コロナウイルス対策について",
+      "url": "https://www.pref.aomori.lg.jp/nature/kankyo/haikibutu_coronataisaku.html"
     },
     {
       "date": "読み込んでいます...",
