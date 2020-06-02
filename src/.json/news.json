@@ -1,6 +1,16 @@
 {
   "newsItems": [
     {
+      "date": "読み込んでいます...",
+      "text": "旅館等の宿泊施設における新型コロナウイルス感染症への対応について",
+      "url": "https://www.pref.aomori.lg.jp/welfare/health/2020covidshukuhaku.html"
+    },
+    {
+      "date": "#N/A",
+      "text": "新型コロナウイルス感染症について",
+      "url": "https://www.pref.aomori.lg.jp/welfare/health/wuhan-novel-coronavirus2020.html"
+    },
+    {
       "date": "2020/06/01",
       "text": "新型コロナウイルス対策関連事務連絡（高齢者施設等）",
       "url": "https://www.pref.aomori.lg.jp/welfare/welfare/kaigosisetu_tuuti.html"
@@ -16,12 +26,7 @@
       "url": "https://www.pref.aomori.lg.jp/soshiki/kikaku/koho/stopcovid19poster.html"
     },
     {
-      "date": "2020/06/01",
-      "text": "新型コロナウイルス感染症について",
-      "url": "https://www.pref.aomori.lg.jp/welfare/health/wuhan-novel-coronavirus2020.html"
-    },
-    {
-      "date": "2020/05/29",
+      "date": "読み込んでいます...",
       "text": "アピオあおもりにおける新型コロナウイルス感染拡大防止の対応の見直しについて(5月29日から)",
       "url": "https://www.pref.aomori.lg.jp/soshiki/kankyo/seishonen/apioaomori-coronataiou.html"
     },
@@ -36,7 +41,7 @@
       "url": "https://www.pref.aomori.lg.jp/life/tax/kansensyou_tyousyuuyuuyo_001.html"
     },
     {
-      "date": "2020/05/28",
+      "date": "読み込んでいます...",
       "text": "東地方保健所 「新型コロナウイルス感染症（COVID-19）」に関する情報",
       "url": "https://www.pref.aomori.lg.jp/soshiki/kenmin/ao-hoken/higashihoken_covid19.html"
     }
