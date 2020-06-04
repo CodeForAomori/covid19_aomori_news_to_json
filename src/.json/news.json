@@ -1,24 +1,21 @@
 {
   "newsItems": [
     {
-      "date": "読み込んでいます...",
+      "date": "2020/06/04",
       "text": "新型コロナウイルス感染症について",
       "url": "https://www.pref.aomori.lg.jp/welfare/health/wuhan-novel-coronavirus2020.html"
     },
     {
       "date": "読み込んでいます...",
-      "text": "新型コロナウイルス対策関連事務連絡（高齢者施設等）",
-      "url": "https://www.pref.aomori.lg.jp/welfare/welfare/kaigosisetu_tuuti.html"
-    },
-    {
-      "date": "2020/06/01",
-      "text": "あすなろ療育福祉センター — 新型コロナウイルス感染症対策について",
-      "url": "https://www.pref.aomori.lg.jp/welfare/welfare/korona_asunaro.html"
+      "text": "新型コロナウイルス対策関連事務連絡（高齢者施設等）"
     },
     {
       "date": "読み込んでいます...",
-      "text": "新型コロナウイルス感染症対策ポスター",
-      "url": "https://www.pref.aomori.lg.jp/soshiki/kikaku/koho/stopcovid19poster.html"
+      "text": "あすなろ療育福祉センター — 新型コロナウイルス感染症対策について"
+    },
+    {
+      "date": "読み込んでいます...",
+      "text": "新型コロナウイルス感染症対策ポスター"
     }
   ]
 }
