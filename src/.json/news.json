@@ -1,9 +1,14 @@
 {
   "newsItems": [
     {
-      "date": "2020/06/13",
+      "date": "2020/06/15",
       "text": "新型コロナウイルス感染症について",
       "url": "https://www.pref.aomori.lg.jp/welfare/health/wuhan-novel-coronavirus2020.html"
+    },
+    {
+      "date": "2020/06/15",
+      "text": "新型コロナウイルスの感染拡大に伴う医療機関への周知、依頼事項",
+      "url": "https://www.pref.aomori.lg.jp/soshiki/kenko/iryo/info-coronavirus.html"
     },
     {
       "date": "2020/06/12",
@@ -11,7 +16,7 @@
       "url": "https://www.pref.aomori.lg.jp/sangyo/shoko/singatakorona.html"
     },
     {
-      "date": "読み込んでいます...",
+      "date": "2020/06/12",
       "text": "議会を傍聴される皆様へ（新型コロナウイルス感染予防について）",
       "url": "https://www.pref.aomori.lg.jp/soshiki/gikai/bocho_coronavirus.html"
     },
@@ -26,7 +31,7 @@
       "url": "https://www.pref.aomori.lg.jp/kensei/yosan/yosan_covid-19.html"
     },
     {
-      "date": "2020/06/10",
+      "date": "読み込んでいます...",
       "text": "新型コロナウイルス感染症に係る危機対策本部 知事メッセージ",
       "url": "https://www.pref.aomori.lg.jp/koho/R020228message.html"
     }
